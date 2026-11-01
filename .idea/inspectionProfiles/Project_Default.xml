@@ -1,0 +1,71 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiofiles" />
+          <option value="anthropic" />
+          <option value="backoff" />
+          <option value="bracex" />
+          <option value="dataclasses-json" />
+          <option value="docstring_parser" />
+          <option value="docx" />
+          <option value="emoji" />
+          <option value="filetype" />
+          <option value="google-auth" />
+          <option value="google-genai" />
+          <option value="grpcio" />
+          <option value="html5lib" />
+          <option value="huggingface-hub" />
+          <option value="ipython_pygments_lexers" />
+          <option value="langchain-anthropic" />
+          <option value="langchain-google-genai" />
+          <option value="langchain-huggingface" />
+          <option value="langchain-mcp-adapters" />
+          <option value="langchain-tavily" />
+          <option value="langdetect" />
+          <option value="marshmallow" />
+          <option value="mcp" />
+          <option value="olefile" />
+          <option value="pymilvus" />
+          <option value="pypdf" />
+          <option value="python-docx" />
+          <option value="python-iso639" />
+          <option value="python-magic" />
+          <option value="python-multipart" />
+          <option value="python-oxmsg" />
+          <option value="RapidFuzz" />
+          <option value="rsa" />
+          <option value="safetensors" />
+          <option value="sentence-transformers" />
+          <option value="sse-starlette" />
+          <option value="starlette" />
+          <option value="tavily" />
+          <option value="tokenizers" />
+          <option value="torch" />
+          <option value="transformers" />
+          <option value="typing-inspect" />
+          <option value="unstructured" />
+          <option value="unstructured-client" />
+          <option value="uvicorn" />
+          <option value="wcmatch" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pandas" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="dotenv" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
